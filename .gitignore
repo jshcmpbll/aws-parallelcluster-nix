@@ -1,0 +1,19 @@
+# Nix
+result
+result-*
+*.drv
+/nix/
+
+# Direnv
+.direnv/
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
